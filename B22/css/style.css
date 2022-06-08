@@ -1,0 +1,61 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+table, th, td {
+  border:1px solid black;
+  margin:auto;
+  margin-top:20px;
+}
+.naslov{
+	display:flex;
+	background-color:#0066cc;
+	font-size:20px;
+	color:white;
+}
+.prvi{
+	border:2px solid grey;
+}
+.text1{
+	padding-left:20px;
+}
+.text{
+	padding-left:20px;
+	padding-right:20px;
+}
+.prvi1{
+	width:1100px;
+}
+.naslov1{
+	margin-top:20px;
+	text-align:center;
+	font-size:50px;
+	color:#0066cc;;
+}.kraj{
+	display:flex;
+	background-color:#0066cc;
+	font-size:20px;
+	color:white;
+	margin-top:20px;
+}
+.dugmici{
+	margin-top:20px;
+	text-align:center;
+}
+  .even{background-color: green;} 
+.ponavljanje{background-color: white;} 
